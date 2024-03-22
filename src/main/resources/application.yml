@@ -1,0 +1,11 @@
+
+
+
+server:
+  #???????
+  port: 8088 #???????8080
+
+#socket�ͻ������ӵ�ַ
+com.dl.socket.url: ws://localhost:8083/webSocket//12345
+
+
